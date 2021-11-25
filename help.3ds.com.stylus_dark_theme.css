@@ -81,5 +81,8 @@ td.DocHeader4{
     color: lightgray !important;
     background: #2b2626 !important;
 }
+pre.codeblock{
+    color: salmon!important;
+}
 
 }
