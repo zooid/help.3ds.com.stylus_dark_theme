@@ -87,4 +87,7 @@ pre.codeblock{
 dd{
     color: lightgray !important;
 }
+li.stepexpand p, li.stepexpand ul{
+    color: lightgray !important;
+}
 }
