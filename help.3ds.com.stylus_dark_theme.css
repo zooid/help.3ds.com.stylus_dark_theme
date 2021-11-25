@@ -84,5 +84,7 @@ td.DocHeader4{
 pre.codeblock{
     color: salmon!important;
 }
-
+dd{
+    color: lightgray !important;
+}
 }
