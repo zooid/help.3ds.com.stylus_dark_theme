@@ -1,0 +1,85 @@
+@-moz-document domain(https://help.3ds.com/) {
+    /*
+Stylus theme for https://help.3ds.com/
+The documentation of 3DEXPERIENCE Platform by Dassault Systemes
+author: zooid
+GITHUB: "coming soon"
+License: CC BY-NC-ND 4.0
+*/
+
+#DSMain{
+    background: #2b2626 !important;
+}
+#DSHeader {
+    background-color: #3e0068 !important;
+}
+#DSBreadCrumb
+{
+    color:  #3e0068 !important;
+    background-color:lightgray !important;
+}
+#DSContent{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+#DSHelpContent {
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+#DSLeftPane{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+.WebTreePadding td a{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+
+#ph{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+#DocHeader{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+#Intro1Only{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+
+#shortdesc{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+table.DocThemeIntro{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+p {
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+
+h1 {
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+td.DocHeader1{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+td.DocHeader2{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+td.DocHeader3{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+td.DocHeader4{
+    color: lightgray !important;
+    background: #2b2626 !important;
+}
+
+}
