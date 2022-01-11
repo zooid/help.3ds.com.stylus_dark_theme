@@ -7,6 +7,9 @@ GITHUB: https://github.com/zooid/help.3ds.com.stylus_dark_theme
 License: CC BY-NC-ND 4.0
 */
 
+.all >header {
+    background-color: #160838;
+}
 #DSMain{
     background-color: #232323 !important;
 }
@@ -75,12 +78,19 @@ License: CC BY-NC-ND 4.0
     background-color: #3e0068 !important;
     background-image: None;
 }
-
+.side-bar{
+    background-color: #232323 !important;
+}
 a:link {
     color:#7fb8df !important;
 }
 a:hover{
     text-decoration: underline !important;
+}
+
+html, body{
+    color: lightgray !important;
+    background-color: #232323 !important;
 }
 
 .toolTipstyle {
@@ -131,7 +141,27 @@ span.figcap {
 dt {
     color:#7fb8df !important;
 }
+.table tr:nth-child(even), .simpletable tr:nth-child(even){
+    color: lightgray !important;
+    background-color: #232323 !important;
+}
+    
+.table tr:nth-child(odd), .simpletable tr:nth-child(odd){
+    color: lightgray !important;
+    background-color: #232323 !important;
+}
+    
+td.Intro1{
+    color: lightgray !important;
+    background-color: #232323 !important;
+}
+
 td.Intro2{
+    color: lightgray !important;
+    background-color: #232323 !important;
+}
+
+td.Intro1Only{
     color: lightgray !important;
     background-color: #232323 !important;
 }
@@ -202,5 +232,6 @@ table.table.frame-all, td.entry, th {
     border-collapse: collapse !important;
     border: 1px solid darkgray !important;
 }
+
 
 }
